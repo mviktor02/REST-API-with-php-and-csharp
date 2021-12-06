@@ -1,0 +1,26 @@
+C:\Users\balaz\source\repos\REST_client\REST_client\bin\Debug\REST_client.exe.config
+C:\Users\balaz\source\repos\REST_client\REST_client\bin\Debug\REST_client.exe
+C:\Users\balaz\source\repos\REST_client\REST_client\bin\Debug\REST_client.pdb
+C:\Users\balaz\source\repos\REST_client\REST_client\bin\Debug\RestSharp.dll
+C:\Users\balaz\source\repos\REST_client\REST_client\bin\Debug\RestSharp.xml
+C:\Users\balaz\source\repos\REST_client\REST_client\obj\Debug\REST_client.csprojAssemblyReference.cache
+C:\Users\balaz\source\repos\REST_client\REST_client\obj\Debug\REST_client.Form1.resources
+C:\Users\balaz\source\repos\REST_client\REST_client\obj\Debug\REST_client.Properties.Resources.resources
+C:\Users\balaz\source\repos\REST_client\REST_client\obj\Debug\REST_client.csproj.GenerateResource.cache
+C:\Users\balaz\source\repos\REST_client\REST_client\obj\Debug\REST_client.csproj.CoreCompileInputs.cache
+C:\Users\balaz\source\repos\REST_client\REST_client\obj\Debug\REST_client.csproj.CopyComplete
+C:\Users\balaz\source\repos\REST_client\REST_client\obj\Debug\REST_client.exe
+C:\Users\balaz\source\repos\REST_client\REST_client\obj\Debug\REST_client.pdb
+E:\Uni Projects\SZOP\REST\REST_client\REST_client\bin\Debug\REST_client.exe.config
+E:\Uni Projects\SZOP\REST\REST_client\REST_client\bin\Debug\REST_client.exe
+E:\Uni Projects\SZOP\REST\REST_client\REST_client\bin\Debug\REST_client.pdb
+E:\Uni Projects\SZOP\REST\REST_client\REST_client\bin\Debug\RestSharp.dll
+E:\Uni Projects\SZOP\REST\REST_client\REST_client\bin\Debug\RestSharp.xml
+E:\Uni Projects\SZOP\REST\REST_client\REST_client\obj\Debug\REST_client.csproj.AssemblyReference.cache
+E:\Uni Projects\SZOP\REST\REST_client\REST_client\obj\Debug\REST_client.Form1.resources
+E:\Uni Projects\SZOP\REST\REST_client\REST_client\obj\Debug\REST_client.Properties.Resources.resources
+E:\Uni Projects\SZOP\REST\REST_client\REST_client\obj\Debug\REST_client.csproj.GenerateResource.cache
+E:\Uni Projects\SZOP\REST\REST_client\REST_client\obj\Debug\REST_client.csproj.CoreCompileInputs.cache
+E:\Uni Projects\SZOP\REST\REST_client\REST_client\obj\Debug\REST_client.csproj.CopyComplete
+E:\Uni Projects\SZOP\REST\REST_client\REST_client\obj\Debug\REST_client.exe
+E:\Uni Projects\SZOP\REST\REST_client\REST_client\obj\Debug\REST_client.pdb
